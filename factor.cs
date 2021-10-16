@@ -13,4 +13,4 @@ public class FactorialExample
         Console.Write("Factorial of " + number + " is: " + fact);
     }
 }
-.
+
